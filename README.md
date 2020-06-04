@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project based on Modern React with Redux course from Stephen Grider.
+
+In this project,i create a simple page with using React hook system
+
 ## Available Scripts
 
 In the project directory, you can run:
